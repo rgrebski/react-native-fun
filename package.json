@@ -7,6 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/react": "^16.0.34",
+    "axios": "^0.17.1",
+    "prop-types": "^15.6.0",
     "react": "16.0.0",
     "react-native": "0.51.0"
   },
